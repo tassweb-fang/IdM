@@ -75,7 +75,7 @@
 
 	```javascript
 	{
-		"user_code":"1000002"
+		"user_code":"00099992"
 	}
 	```
 
